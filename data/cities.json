@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Golfo di Cagliari",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-11-15T17:44:32.207Z",
+      "notes": "sardegna 2019",
+      "position": {
+        "lat": "39.18970171050405",
+        "lng": "9.108549343680943"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Morro Reatino",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-11-15T18:19:33.640Z",
+      "notes": "",
+      "position": {
+        "lat": "42.50376919676058",
+        "lng": "12.813780762545266"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Bucuresti",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-11-15T18:19:41.456Z",
+      "notes": "",
+      "position": {
+        "lat": "44.43184295737448",
+        "lng": "26.1721664351226"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Prados Redondos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-15T18:20:33.740Z",
+      "notes": "",
+      "position": {
+        "lat": "40.76196021441948",
+        "lng": "-1.799615096256704"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Wissous",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-12T09:22:57.537Z",
+      "notes": "",
+      "position": {
+        "lat": "48.748945343432936",
+        "lng": "2.3291015625000004"
+      },
+      "id": 98443206
+    }
+  ]
+}
